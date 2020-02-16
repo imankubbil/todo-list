@@ -1,0 +1,25 @@
+body {
+    background: #F5C827;
+    color: #FF5834;
+  }
+  
+  h1 {
+    color: #fff;
+    font-size: 64px;
+  }
+
+  .note {
+    margin: 18px;
+  }
+  
+  .date {
+    font-size: 12px;
+  }
+  
+  .buttons {
+    display: inline-flex;
+  }
+  
+  .menu {
+    margin-bottom: 18px;
+  }
